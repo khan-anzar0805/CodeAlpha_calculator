@@ -1,2 +1,2 @@
-# CodeAlpha_calculator
-its my code alpha task and enhancing my coding skills as well 
+# Calculator_by_me
+just enhancing my skills and doing somsehing evreyday as well
